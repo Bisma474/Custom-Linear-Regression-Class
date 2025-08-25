@@ -68,12 +68,6 @@ pandas
 
 ---
 
-## 🔭 Future Improvements
-- Add Ridge & Lasso regularization  
-- Mini-batch/Stochastic Gradient Descent  
-- Early stopping & learning rate schedulers  
-- Polynomial regression
-
 ---
 
 ## ✍️ Author
