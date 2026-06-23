@@ -1,6 +1,6 @@
 # 📈 Custom Linear Regression (from Scratch)
 A clean, from-scratch implementation of **Linear Regression** using only core Python and NumPy.  
-This project demonstrates the fundamental mathematics and logic behind regression models without relying on high-level libraries like `scikit-learn`. It includes both **Gradient Descent** and **Normal Equation** solvers, built-in evaluation metrics, and data visualization
+This project demonstrates the fundamental mathematics and logic behind regression models without relying on high-level libraries like `scikit-learn`. Itt includes both **Gradient Descent** and **Normal Equation** solvers, built-in evaluation metrics, and data visualization
 ---
 ## ✨ Key Features
 - **Accurate Predictions**: Generate continuous predictions with `predict()`.
