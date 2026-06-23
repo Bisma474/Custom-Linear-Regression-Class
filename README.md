@@ -10,7 +10,7 @@ This project demonstrates the fundamental mathematics and logic behind regressio
 - **Clean Architecture**: Designed as a highly readable, reusable Python class.
 ---
 ## 🧠 The Math Behind the Model
-This implementation relies on the core mathematical foundations of Machine Learning:
+
 - **Hypothesis Function**:  
   $$ \hat{y} = X \theta $$
 - **Cost Function (Mean Squared Error)**:  
