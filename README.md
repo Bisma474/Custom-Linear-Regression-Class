@@ -44,7 +44,7 @@ print(f"Learned Parameters (Theta): {model.theta}")
 print(f"R² Score: {model.r2_score(X, y):.4f}")
 print(f"Prediction for x=6: {model.predict(np.array([[6.0]]))[0]:.2f}")
 📦 Installation
-To run this project locally, clone the repository and install the required dependencies:
+To run this project locally, clone the repository and install the required dependenciesss:
 
 bash
 
